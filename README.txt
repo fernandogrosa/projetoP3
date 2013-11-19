@@ -1,12 +1,10 @@
-**********************************************
-**********************************************
-******* Projeto P3                     *******
-******* Engenharia de Software II      *******
-******* Docente: Rogério Eduardo Garcia*******
-******* Discente:Denilson Grosa        *******
-*******          Allan Albuquerque     *******
-**********************************************
-**********************************************
+Engenharia de Software II            
+Projeto P3                           
+Profesor.: Dr. Rogério Eduardo Garcia
+Alunos...:Denilson Grosa             
+          Allan Albuquerque          
 
-Este Repósito contém artefatos produzidos durante o 
-desenvolvimento do Projeto de Engenharia de Software II
+
+Este Repositório contém artefatos produzidos durante o 
+desenvolvimento do Projeto da disciplina Engenharia de 
+Software II.
